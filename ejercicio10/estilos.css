@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #282c34;
+    color: white;
+}
+
+#reloj {
+    font-size: 5em;
+    border: 2px solid #61dafb;
+    padding: 20px;
+    border-radius: 10px;
+    background: #20232a;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
